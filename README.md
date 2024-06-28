@@ -1,2 +1,2 @@
-# CodSoft-
+# CodSoft
 2nd task
